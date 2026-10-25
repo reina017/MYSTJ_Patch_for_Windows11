@@ -1,0 +1,26 @@
+# Product data and downloaded runtimes must never be published.
+*.iso
+*.dat
+*.DAT
+*.mov
+*.MOV
+*.exe
+*.EXE
+*.dll
+*.DLL
+*.bmp
+*.BMP
+*.mys
+*.mym
+*.zip
+*.ini
+*.INI
+*.log
+__pycache__/
+build/
+dist/
+runtime/
+data/
+userdata/
+installation.json
+retained-data.json
